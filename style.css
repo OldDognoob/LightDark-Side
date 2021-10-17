@@ -42,3 +42,13 @@ body {
   top: 5px;
   left: 45px;
 }
+/* if there is an element with the class of dark 
+I m getting the element with the class of flicker 
+*/
+.dark .flicker {
+    transform: translateX(40px);
+  }
+  
+  .dark > * {
+   color:rgb(255, 255, 255);
+  }
