@@ -1,7 +1,7 @@
 body {
     transition: 0.3s;
     margin: 0;
-    padding: 0;
+    padding: 10px;
     background-color: rgb(244, 241, 241);
     font-family: 'Poppins', sans-serif;
     color:rgb(57, 57, 57);
