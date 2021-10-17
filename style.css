@@ -58,8 +58,14 @@ I m getting the element with the class of flicker
 
   .main {
       height: 80vh;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+      padding:30px;
   }
 
   .main-text{
       width:50%;
+      margin-bottom: 100px;
   }
