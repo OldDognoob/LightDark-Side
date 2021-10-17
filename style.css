@@ -100,3 +100,36 @@ I want to give the color of white.
   width: 50%;
   margin-bottom: 100px;
 }
+
+.square {
+  width: 98%;
+  margin: 1%;
+  height: 350px;
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+.dark .square {
+  background-color: rgb(71, 71, 71);
+}
+
+#portfolio {
+    background-image: url("images/Room.jpg");
+    background-size: cover;
+}
+
+#bettiorium {
+    background-image: url("images/Bettiorium.png");
+    background-size: cover;
+}
+
+#movie {
+    background-image: url("images/movieApp.png");
+    background-size: cover;
+}
+
+#todo {
+    background-image: url("images/TodoFast.png");
+    background-size: cover;
+}
+
