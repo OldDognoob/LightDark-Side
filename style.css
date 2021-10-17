@@ -79,7 +79,9 @@ I m getting the element with the class of flicker
   transform: translateX(40px);
 }
 /*
-
+The element with the class of dark and if that exists I want 
+all the element of every single child if there is any text 
+I want to give the color of white.
 */
 .dark > * {
   color: rgb(255, 255, 255);
