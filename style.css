@@ -122,23 +122,32 @@ I want to give the color of white.
 }
 
 #portfolio {
-  background-image: url("images/Room.jpg");
-  background-image: cover;
+  background-image: url("images/Room1.jpg");
+  /* background-image: cover; */
+  /* background-size: contain; */
+  background-size: 800px 600px;
+  background-repeat: no-repeat;
 }
 
 #bettiorium {
-  /* background-image: url("images/Bettiorium.png"); */
-  background-size: cover;
+  background-image: url("images/Bettiorium.png");
+  /* background-size: cover; */
+  background-size: 800px 600px;
+  background-repeat: no-repeat;
 }
 
 #movie {
-  /* background-image: url("images/movieApp.png"); */
-  background-size: cover;
+  background-image: url("images/movieApp.png");
+  /* background-size: cover; */
+  background-size: 800px 600px;
+  background-repeat: no-repeat;
 }
 
 #todo {
-  /* background-image: url("images/TodoFast.png"); */
-  background-size: cover;
+  background-image: url("images/TodoFast.png");
+  /* background-size: cover; */
+  background-size: 800px 600px;
+  background-repeat: no-repeat;
 }
 
 .sub-section {
@@ -154,7 +163,7 @@ I want to give the color of white.
   margin-bottom: 100px;
 }
 
-.cube {
+/* .cube {
   position: absolute;
   width: 80px;
   height: 80px;
@@ -179,7 +188,7 @@ I want to give the color of white.
   transform: skewX(-45deg);
   left: -10px;
   bottom: -20px;
-}
+} */
 
 footer {
   display: flex;
