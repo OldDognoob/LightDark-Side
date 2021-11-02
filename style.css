@@ -3,7 +3,7 @@ body {
   transition: 0.3s;
   margin: 0;
   padding: 0;
-  background-color: rgb(244, 241, 241);
+  background-color: rgb(214, 212, 212);
   font-family: "Poppins", sans-serif;
   color: rgb(57, 57, 57);
 }
@@ -34,14 +34,14 @@ p {
 }
 
 a {
-  color: rgb(104, 2, 78);
+  color: rgb(63, 66, 250);
   font-size: 20px;
   text-decoration: none;
   font-weight: 100;
 }
 
 .dark a {
-  color: rgb(206, 142, 202);
+  color: rgb(194, 93, 115);
 }
 
 .switch {
@@ -122,31 +122,23 @@ I want to give the color of white.
 }
 
 #portfolio {
-  background-image: url("images/Room1.jpg");
-  background-image: cover;
-  background-size: 800px 600px;
-  background-repeat: no-repeat;
+  background-image: url("images/Room1.png");
+  background-size: cover; 
 }
 
 #bettiorium {
-  background-image: url("images/Bettiorium.png");
-  background-size: cover;
-  background-size: 800px 600px;
-  background-repeat: no-repeat;
+  /* background-image: url("images/Bettiorium.png"); */
+  background-size: cover; 
 }
 
 #movie {
-  background-image: url("images/movieApp.png");
+  /* background-image: url("images/movieApp.png"); */
   background-size: cover;
-  background-size: 800px 600px;
-  background-repeat: no-repeat;
 }
 
 #todo {
-  background-image: url("images/TodoFast.png");
+  /* background-image: url("images/TodoFast.png"); */
   background-size: cover;
-  background-size: 800px 600px;
-  background-repeat: no-repeat;
 }
 
 .sub-section {
