@@ -150,13 +150,13 @@ I want to give the color of white.
   flex-wrap: wrap;
 }
 
-.hero-image {
+/* .hero-image {
   position: relative;
   width: 50%;
   height: 350px;
   display: block;
   margin-bottom: 100px;
-}
+} */
 
 /* .cube {
   position: absolute;
