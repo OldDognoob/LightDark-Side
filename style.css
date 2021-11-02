@@ -117,13 +117,17 @@ I want to give the color of white.
   text-align: center;
 }
 
+.square h2{
+  margin: 50px 0 10px 0;
+}
+
 .dark .square {
   background-color: rgb(71, 71, 71);
 }
 
 #portfolio {
-  background-image: url("images/Room1.png");
-  background-size: cover; 
+  /* background-image: url("images/portfolio.png"); */
+  /* background-size: cover;  */
 }
 
 #bettiorium {
