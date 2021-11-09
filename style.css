@@ -125,22 +125,22 @@ I want to give the color of white.
 }
 
 #portfolio {
-  /* background-image: url("images/portfolio.png"); */
+  background-image: url("images/portfolio.png");
   background-size: cover; 
 }
 
 #bettiorium {
-  /* background-image: url("images/Bettiorium.png"); */
+  background-image: url("images/Bettiorium.png");
   background-size: cover; 
 }
 
 #movie {
-  /* background-image: url("images/movieApp.png"); */
+  background-image: url("images/movieApp.png");
   background-size: cover;
 }
 
 #todo {
-  /* background-image: url("images/TodoFast.png"); */
+  background-image: url("images/TodoFast.png");
   background-size: cover;
 }
 
